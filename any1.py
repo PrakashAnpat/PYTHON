@@ -14,3 +14,5 @@ g=e==f
 print(g)
 print()
 print(any(g))
+print(id (e))
+print(id (f))
