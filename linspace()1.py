@@ -25,3 +25,4 @@ i=0
 while i<m :
     print("Index",i,"=",c[i])
     i+=1
+print(".......Welcome........")
