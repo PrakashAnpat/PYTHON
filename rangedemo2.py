@@ -1,0 +1,18 @@
+a=range(10,0,-1)
+print(a)
+print(a[0])
+print(a[1])
+print(a[2])
+print(a[3])
+print(a[4])
+print(a[5])
+print(a[6])
+print(a[7])
+print(a[8])
+print(a[9])
+print("Accessing using for loop: ")
+for i in a :
+    print(i)
+print("for loop with index: ")
+for i in range(len(a)) :
+    print("Index",i,"=",a[i])
